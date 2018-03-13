@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /Volumes/seagate/projects/livysparkjob/target/scala-2.11/example_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /Volumes/seagate/projects/livysparkjob/target/scala-2.11/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/dataflowdeveloper/example/Links$.class[0m
+[0m[[0mdebug[0m] [0m	  /Volumes/seagate/projects/livysparkjob/target/scala-2.11/classes/com/dataflowdeveloper/example/Links$.class[0m
+[0m[[0mdebug[0m] [0m	com/dataflowdeveloper/example/Links.class[0m
+[0m[[0mdebug[0m] [0m	  /Volumes/seagate/projects/livysparkjob/target/scala-2.11/classes/com/dataflowdeveloper/example/Links.class[0m
+[0m[[0mdebug[0m] [0m	com/dataflowdeveloper[0m
+[0m[[0mdebug[0m] [0m	  /Volumes/seagate/projects/livysparkjob/target/scala-2.11/classes/com/dataflowdeveloper[0m
+[0m[[0mdebug[0m] [0m	com/dataflowdeveloper/example[0m
+[0m[[0mdebug[0m] [0m	  /Volumes/seagate/projects/livysparkjob/target/scala-2.11/classes/com/dataflowdeveloper/example[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

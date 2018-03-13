@@ -1,0 +1,142 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Volumes/seagate/projects/livysparkjob/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> /Volumes/seagate/projects/livysparkjob/target/scala-2.11/classes/com/dataflowdeveloper/example/Links$.class
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> /Volumes/seagate/projects/livysparkjob/target/scala-2.11/classes/com/dataflowdeveloper/example/Links.class
+binary dependencies:
+5 items
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> /Users/tspann/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> /Users/tspann/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> /Users/tspann/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> /Users/tspann/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> com.dataflowdeveloper.example.Links
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> com.dataflowdeveloper.example.Links$
+used names:
+55 items
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> +
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> <init>
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Any
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> AnyRef
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Array
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Builder
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> DataFrame
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> DataFrameReader
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Exception
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> INFO
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> KryoRegistrator
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> KryoSerializer
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Level
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Links
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Logger
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Long
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Object
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Predef
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> RDD
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> SparkConf
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> SparkContext
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> SparkSession
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> String
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> Unit
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> apache
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> appName
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> builder
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> com
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> count
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> createOrReplaceTempView
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> dataflowdeveloper
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> e
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> error
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> example
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> getLogger
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> getMessage
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> getOrCreate
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> info
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> json
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> log
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> log4j
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> org
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> package
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> printSchema
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> printStackTrace
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> println
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> rdd
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> read
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> scala
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> serializer
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> setLevel
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> shdf
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> spark
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> sql
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> stuffdf
+product stamps:
+2 items
+/Volumes/seagate/projects/livysparkjob/target/scala-2.11/classes/com/dataflowdeveloper/example/Links$.class -> lastModified(1520902714000)
+/Volumes/seagate/projects/livysparkjob/target/scala-2.11/classes/com/dataflowdeveloper/example/Links.class -> lastModified(1520902714000)
+source stamps:
+1 items
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> hash(6addb11a493bfcc0d1f13684013c0f8279ba69c0)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/tspann/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> lastModified(1338025419000)
+/Users/tspann/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar -> lastModified(1498869279000)
+/Users/tspann/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar -> lastModified(1498869654000)
+/Users/tspann/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/tspann/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> org.apache.log4j.Logger
+/Users/tspann/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar -> org.apache.spark.SparkConf
+/Users/tspann/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar -> org.apache.spark.sql.SparkSession
+/Users/tspann/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Array
+internal apis:
+1 items
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw7ByQqwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw7sDMVnQABm5vdGlmeXNxAH4ADB2NGMl0AAR3YWl0c3EAfgAMFdYAHHQADSRhc0luc3RhbmNlT2ZzcQB+AAw8jZr/dAAGZXF1YWxzc3EAfgAMsQuSAHQADGFzSW5zdGFuY2VPZnNxAH4ADMN0zKF0AAVMaW5rc3NxAH4ADHzniLR0AAxzeW5jaHJvbml6ZWRzcQB+AAxObBX8dAANJGlzSW5zdGFuY2VPZnNxAH4ADJwG0xB0AARtYWluc3EAfgAMz9aOQ3QACW5vdGlmeUFsbHNxAH4ADNaHEUp0AAxpc0luc3RhbmNlT2ZzcQB+AAwDW2vxdAACPT1zcQB+AAzCQU39dAAFY2xvbmVzcQB+AAyLIaBgdAAIdG9TdHJpbmdzcQB+AAw2Ek+xdAACIT1zcQB+AAw5hi/edAAIZ2V0Q2xhc3NzcQB+AAzUQkNRdAACbmVzcQB+AAzU3WFAdAACZXFzcQB+AAx686YqdAACIyNzcQB+AAzJuPLRdAAIZmluYWxpemVzcQB+AAycMKKPdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAjY29tLmRhdGFmbG93ZGV2ZWxvcGVyLmV4YW1wbGUuTGlua3N1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAVY29tLmRhdGFmbG93ZGV2ZWxvcGVyc3EAfgCmdAAdY29tLmRhdGFmbG93ZGV2ZWxvcGVyLmV4YW1wbGVzcQB+AKZ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWIc3alhdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9Wb2x1bWVzL3NlYWdhdGUvcHJvamVjdHMvbGl2eXNwYXJram9iL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRq3bEaSTv8wNHxNoQBPA+CebppwA==
+external apis:
+0 items
+source infos:
+1 items
+/Volumes/seagate/projects/livysparkjob/src/main/scala-2.11/Example.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYhzdqWF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Wb2x1bWVzL3NlYWdhdGUvcHJvamVjdHMvbGl2eXNwYXJram9iL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
