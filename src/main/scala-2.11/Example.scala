@@ -9,15 +9,15 @@ class Example () {
       try {
         println("Started")
 
-	val shdf = spark.read.json("hdfs://princeton0.field.hortonworks.com:8020/smartPlugRaw")
+        val shdf = spark.read.json("hdfs://princeton0.field.hortonworks.com:8020/smartPlugRaw")
  
-	shdf.printSchema()
+	      shdf.printSchema()
  
-	shdf.createOrReplaceTempView("smartplug")
+	      shdf.createOrReplaceTempView("smartplug")
  
-	val stuffdf = spark.sql("SELECT * FROM smartplug")
+	      val stuffdf = spark.sql("SELECT * FROM smartplug")
  
-	stuffdf.count()
+	      stuffdf.count()
 
         println("Complete.")
       } catch {
